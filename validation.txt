@@ -1,0 +1,1 @@
+../资料/music_Oxford_Beethoven/BEETHOVEN 2017-10-09/AUDIO FILES/Condition 3 - LabelsCorrected/03 Violin I-3_Condition3.wav   ../资料/music_Oxford_Beethoven/ANNOTATIONS/CONDITION 3/03 Violin I-3_Condition3_bars1-25_ONSETS.csv
